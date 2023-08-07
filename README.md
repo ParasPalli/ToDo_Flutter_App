@@ -22,7 +22,7 @@ For a live working demo of the app, please visit the following link: Flutter [To
 Flutter and Dart SDKs installed. You can follow the installation instructions [here](https://docs.flutter.dev/get-started/install).
 
 ## State Management
-The application utilizes the Provider package for state management. The TaskProvider class manages the list of tasks and provides methods for adding, updating, and deleting tasks.
+The application utilizes the Provider package for state management. The TaskData class manages the list of tasks and provides methods for adding, updating, and deleting tasks.
 
 
 ## UI Components
