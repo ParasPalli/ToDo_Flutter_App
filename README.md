@@ -9,7 +9,7 @@ This repository contains a Flutter ToDo App that showcases the use of state mana
 5. Utilize a ModalBottomSheet to edit task details.
 
 ## ScreenShots:
-For a live working demo of the app, please visit the following link: Flutter [ToDoAppDemo](https://drive.google.com/file/d/1N4D7afLW0GH6Xefp9trLKPvvgIH2FbSR/view?usp=sharing)
+For a live working demo of the app, please visit the following link: [Flutter ToDoAppDemo](https://drive.google.com/file/d/1N4D7afLW0GH6Xefp9trLKPvvgIH2FbSR/view?usp=sharing)
 
 ![WhatsApp Image 2023-08-07 at 16 12 33](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/d2a7cf88-7e8b-41db-9409-cdd55b1f44d5)
 
