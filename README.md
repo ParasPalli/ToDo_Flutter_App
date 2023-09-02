@@ -11,11 +11,12 @@ This repository contains a Flutter ToDo App that showcases the use of state mana
 ## ScreenShots:
 For a live working demo of the app, please visit the following link: [Flutter ToDoAppDemo](https://drive.google.com/file/d/1N4D7afLW0GH6Xefp9trLKPvvgIH2FbSR/view?usp=sharing)
 
-![WhatsApp Image 2023-08-07 at 16 12 33](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/d2a7cf88-7e8b-41db-9409-cdd55b1f44d5)
+![WhatsApp Image 2023-08-07 at 16 12 57](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/55984795-6e87-4733-a9d8-e290a4523c7d)
 
-![WhatsApp Image 2023-08-07 at 16 12 32](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/47ab69a1-b6ea-4ee8-b6d8-bf72cc9970e6)
+![WhatsApp Image 2023-08-07 at 16 12 56](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/1d051473-31b5-4b2a-99e0-dffc02995ab4)
 
-![WhatsApp Image 2023-08-07 at 16 12 32](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/739ed34f-85db-45f8-a8c8-3b4fd6bfc073)
+![WhatsApp Image 2023-08-07 at 16 12 56](https://github.com/ParasPalli/ToDo_Flutter_App/assets/115391909/43a95976-95e1-4836-9b4d-df7d7d8852bd)
+
 
 
 ## Prerequisites
